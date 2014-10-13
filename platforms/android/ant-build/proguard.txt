@@ -1,0 +1,13 @@
+# view AndroidManifest.xml #generated:13
+-keep class ong.dev.ionic.TownMeeting.GcmBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class ong.dev.ionic.TownMeeting.GcmIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class ong.dev.ionic.TownMeeting.TownMeeting { <init>(...); }
+
+# onClick res/layout/main.xml #generated:30
+# onClick res/layout/main.xml #generated:37
+-keepclassmembers class * { *** onClick(...); }
+

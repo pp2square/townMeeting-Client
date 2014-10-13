@@ -1,0 +1,24 @@
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes.dex : \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\com\google\android\gcm\demo\app\GcmBroadcastReceiver.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\BuildConfig.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\GcmBroadcastReceiver.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\GcmIntentService.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\Manifest$permission.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\Manifest.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R$attr.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R$drawable.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R$id.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R$integer.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R$layout.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R$string.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R$xml.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\R.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\ong\dev\ionic\TownMeeting\TownMeeting.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\dexedLibs\classes-036aa700404b6edaae89b08cf7d21848.jar \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\dexedLibs\google-play-services-db41946a4add3bd30da8f790a81308f9.jar \
+D:\Dev\Workspaces\townMeeting-Client\platforms\android\ant-build\dexedLibs\android-support-v4-b08f9cecd512d30f856a3224d5ab226a.jar \
